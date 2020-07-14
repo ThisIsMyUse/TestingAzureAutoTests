@@ -16,3 +16,7 @@ git push
 
 re-ran the Azure tests, and they still pass!
 
+Looking at tests that were added into the default pipeline, it is now apparent that  they were not testing any parts of the solution, only echoing
+"Hello, world". So now I am going to go through the process of trying to set up an automated test for the code.
+
+

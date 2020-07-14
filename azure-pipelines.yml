@@ -4,8 +4,8 @@
 # https://aka.ms/yaml
 
 trigger:
-    include:
-    - master
+    #include:
+- master
 
 pool:
   vmImage: 'ubuntu-latest'
