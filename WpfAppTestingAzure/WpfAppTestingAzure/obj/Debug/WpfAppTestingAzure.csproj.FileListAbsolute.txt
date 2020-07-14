@@ -1,0 +1,15 @@
+C:\Users\Aaron Carlisle\Desktop\Github Kattis\TestingAzureAutoTests\WpfAppTestingAzure\WpfAppTestingAzure\bin\Debug\WpfAppTestingAzure.exe.config
+C:\Users\Aaron Carlisle\Desktop\Github Kattis\TestingAzureAutoTests\WpfAppTestingAzure\WpfAppTestingAzure\bin\Debug\WpfAppTestingAzure.exe
+C:\Users\Aaron Carlisle\Desktop\Github Kattis\TestingAzureAutoTests\WpfAppTestingAzure\WpfAppTestingAzure\bin\Debug\WpfAppTestingAzure.pdb
+C:\Users\Aaron Carlisle\Desktop\Github Kattis\TestingAzureAutoTests\WpfAppTestingAzure\WpfAppTestingAzure\obj\Debug\WpfAppTestingAzure.csprojAssemblyReference.cache
+C:\Users\Aaron Carlisle\Desktop\Github Kattis\TestingAzureAutoTests\WpfAppTestingAzure\WpfAppTestingAzure\obj\Debug\MainWindow.g.cs
+C:\Users\Aaron Carlisle\Desktop\Github Kattis\TestingAzureAutoTests\WpfAppTestingAzure\WpfAppTestingAzure\obj\Debug\App.g.cs
+C:\Users\Aaron Carlisle\Desktop\Github Kattis\TestingAzureAutoTests\WpfAppTestingAzure\WpfAppTestingAzure\obj\Debug\WpfAppTestingAzure_MarkupCompile.cache
+C:\Users\Aaron Carlisle\Desktop\Github Kattis\TestingAzureAutoTests\WpfAppTestingAzure\WpfAppTestingAzure\obj\Debug\WpfAppTestingAzure_MarkupCompile.lref
+C:\Users\Aaron Carlisle\Desktop\Github Kattis\TestingAzureAutoTests\WpfAppTestingAzure\WpfAppTestingAzure\obj\Debug\MainWindow.baml
+C:\Users\Aaron Carlisle\Desktop\Github Kattis\TestingAzureAutoTests\WpfAppTestingAzure\WpfAppTestingAzure\obj\Debug\WpfAppTestingAzure.g.resources
+C:\Users\Aaron Carlisle\Desktop\Github Kattis\TestingAzureAutoTests\WpfAppTestingAzure\WpfAppTestingAzure\obj\Debug\WpfAppTestingAzure.Properties.Resources.resources
+C:\Users\Aaron Carlisle\Desktop\Github Kattis\TestingAzureAutoTests\WpfAppTestingAzure\WpfAppTestingAzure\obj\Debug\WpfAppTestingAzure.csproj.GenerateResource.cache
+C:\Users\Aaron Carlisle\Desktop\Github Kattis\TestingAzureAutoTests\WpfAppTestingAzure\WpfAppTestingAzure\obj\Debug\WpfAppTestingAzure.csproj.CoreCompileInputs.cache
+C:\Users\Aaron Carlisle\Desktop\Github Kattis\TestingAzureAutoTests\WpfAppTestingAzure\WpfAppTestingAzure\obj\Debug\WpfAppTestingAzure.exe
+C:\Users\Aaron Carlisle\Desktop\Github Kattis\TestingAzureAutoTests\WpfAppTestingAzure\WpfAppTestingAzure\obj\Debug\WpfAppTestingAzure.pdb
