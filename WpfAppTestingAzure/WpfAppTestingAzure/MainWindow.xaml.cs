@@ -61,7 +61,6 @@ namespace WpfTutorialSamples.Games
         {
             InitializeComponent();
             gameTickTimer.Tick += GameTickTimer_Tick;
-
         }
 
         private void DrawGameArea()
